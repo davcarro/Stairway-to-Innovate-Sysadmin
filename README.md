@@ -13,7 +13,6 @@ Happy learning and professional growth!
 ### What is OS? 
 
   * A first definition of OS: "An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs." cit. Wikipedia
-
     * [What is an Operating System (OS)](https://www.javatpoint.com/operating-system)
     * [What is Linux?](https://www.redhat.com/en/topics/linux/what-is-linux)
     * [Linux and the GNU System - GNU Project - Free Software Foundation](https://www.gnu.org/gnu/linux-and-gnu.it.html)
@@ -32,21 +31,25 @@ Happy learning and professional growth!
     * [How to manage Linux permissions for users, groups, and others](https://www.redhat.com/sysadmin/manage-permissions)
   
   * Installation and Configuration
-
      * [How to run an Ubuntu Desktop virtual machine using VirtualBox 7](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
      * [What are Steps to Secure a Linux Server?](https://blog.imunify360.com/what-are-steps-to-secure-a-linux-server)
-  
+  * Troubleshooting
+     * [3 Common Linux Troubleshooting Techniques for Diagnostics](https://www.cbtnuggets.com/blog/technology/system-admin/3-common-linux-troubleshooting-techniques-for-diagnostics)
+
 ### Networking
   * Networking
      * [Linux Networking 101 - ActualTech Media](https://www.actualtechmedia.com/wp-content/uploads/2017/12/CUMULUS-NETWORKS-Linux101.pdf)
      * [7 Linux networking commands that every sysadmin should know](https://www.redhat.com/sysadmin/7-great-network-commands)
-   * Network Protocols
+  * Network Protocols
      * [Network protocols - DNS, DHCP, ARP, FTP, SMTP, HTTP, SSL, TLS, HTTPS](https://supervisorbullying.com/network-protocols-their-functions/)
      * [Network Protocols and Networking - IP, TCP, UDP, ICMP](https://www.html.it/pag/71625/protocolli-di-rete-e-networking/)
  
    * Secure Shell Protocol (SSH) and Secure Copy Protocol (SCP)
      * [How to Use SSH to Connect to Remote Computers Using Windows, Linux or macOS](https://www.tomshardware.com/how-to/use-ssh-connect-to-remote-computer)
+     * [Differences between SCP and SSH](https://www.pluralsight.com/resources/blog/cloud/ssh-and-scp-howto-tips-tricks)
+   * Remote Sync
      * [How to Transfer Files with Rsync over SSH {With Examples}](https://phoenixnap.com/kb/how-to-rsync-over-ssh)
+   * More
      * [Ubuntu Linux Change Hostname (computer name) - nixCraft](https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)
      * [Web Server: What It Is and Why Understanding Its Structure Is Important](https://www.laramind.com/blog/web-server-cosa-sono-perche-sono-importanti/)
 
@@ -61,6 +64,7 @@ Happy learning and professional growth!
   * Books:
 
     * [Linux Book - ActualTech Media](https://www.actualtechmedia.com/wp-content/uploads/2017/12/CUMULUS-NETWORKS-Linux101.pdf)
+    * [Linux For Dummies 10th Edition](https://www.amazon.com/gp/product/1119704251/ref=as_li_tl?ie=UTF8&tag=wiley01-20)
 
   * Tutorials:
 
