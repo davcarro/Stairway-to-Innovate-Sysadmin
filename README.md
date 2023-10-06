@@ -26,18 +26,29 @@ Happy learning and professional growth!
   * Boot Process
     * [Guide to the Boot Process of a Linux System | Baeldung on Linux](https://www.baeldung.com/linux/boot-process)
     * [The Linux Booting Process - 6 Steps Described in Detail](https://www.freecodecamp.org/news/the-linux-booting-process-6-steps-described-in-detail/)
+  
   * Users and Permissions
     * [How to Manage Users in Linux](https://www.freecodecamp.org/news/how-to-manage-users-in-linux/)
     * [How to manage Linux permissions for users, groups, and others](https://www.redhat.com/sysadmin/manage-permissions)
   
+  * Installation and Configuration
+
+     * [How to run an Ubuntu Desktop virtual machine using VirtualBox 7](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
+     * [What are Steps to Secure a Linux Server?](https://blog.imunify360.com/what-are-steps-to-secure-a-linux-server)
+  
 ### Networking
-   * [Linux Networking 101 - ActualTech Media](https://www.actualtechmedia.com/wp-content/uploads/2017/12/CUMULUS-NETWORKS-Linux101.pdf)
-   * [Network Protocols and Networking](https://www.html.it/pag/71625/protocolli-di-rete-e-networking/)
-   * [7 Linux networking commands that every sysadmin should know](https://www.redhat.com/sysadmin/7-great-network-commands)
-  * [How to Use SSH to Connect to Remote Computers Using Windows, Linux or macOS](https://www.tomshardware.com/how-to/use-ssh-connect-to-remote-computer)
-    * [How to Transfer Files with Rsync over SSH {With Examples}](https://phoenixnap.com/kb/how-to-rsync-over-ssh)
-    * [Ubuntu Linux Change Hostname (computer name) - nixCraft](https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)
-    * [Web Server: What It Is and Why Understanding Its Structure Is Important](https://www.laramind.com/blog/web-server-cosa-sono-perche-sono-importanti/)
+  * Networking
+     * [Linux Networking 101 - ActualTech Media](https://www.actualtechmedia.com/wp-content/uploads/2017/12/CUMULUS-NETWORKS-Linux101.pdf)
+     * [7 Linux networking commands that every sysadmin should know](https://www.redhat.com/sysadmin/7-great-network-commands)
+   * Network Protocols
+     * [Network protocols - DNS, DHCP, ARP, FTP, SMTP, HTTP, SSL, TLS, HTTPS](https://supervisorbullying.com/network-protocols-their-functions/)
+     * [Network Protocols and Networking - IP, TCP, UDP, ICMP](https://www.html.it/pag/71625/protocolli-di-rete-e-networking/)
+ 
+   * Secure Shell Protocol (SSH) and Secure Copy Protocol (SCP)
+     * [How to Use SSH to Connect to Remote Computers Using Windows, Linux or macOS](https://www.tomshardware.com/how-to/use-ssh-connect-to-remote-computer)
+     * [How to Transfer Files with Rsync over SSH {With Examples}](https://phoenixnap.com/kb/how-to-rsync-over-ssh)
+     * [Ubuntu Linux Change Hostname (computer name) - nixCraft](https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)
+     * [Web Server: What It Is and Why Understanding Its Structure Is Important](https://www.laramind.com/blog/web-server-cosa-sono-perche-sono-importanti/)
 
 ### Cybersecurity
 
