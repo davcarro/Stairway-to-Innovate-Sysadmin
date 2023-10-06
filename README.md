@@ -65,9 +65,22 @@ Happy learning and professional growth!
 
 ### Cybersecurity
 
+  * Encryption
+  * Vulnerability Resolution
+
 ### Automation and Scripting
 
+  * Process Automation
+  * Scripting
+  * Configuration Management
+
 ### Resource Management
+
+  * Performance Monitoring
+  * Scalability
+  * Backup Management
+
+### More
   * [How to Edit File in Linux](https://linuxhint.com/how-to-edit-file-in-linux/)
   * [Linux Shortcuts - javatpoint](https://www.javatpoint.com/linux-shortcuts)
 
