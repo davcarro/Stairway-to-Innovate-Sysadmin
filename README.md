@@ -8,7 +8,7 @@ If you have resources to share or suggestions to improve this repository, please
 
 Happy learning and professional growth!
 
-## SysAdmin
+## The journey of System Administrators
 
 ### What is OS? 
 
