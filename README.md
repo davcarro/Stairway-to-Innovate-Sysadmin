@@ -10,27 +10,36 @@ Happy learning and professional growth!
 
 ## SysAdmin
 
-### What is Linux? 
+### What is OS? 
 
-  * Articles:
+  * A first definition of OS: "An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs." cit. Wikipedia
 
     * [What is an Operating System (OS)](https://www.javatpoint.com/operating-system)
     * [What is Linux?](https://www.redhat.com/en/topics/linux/what-is-linux)
     * [Linux and the GNU System - GNU Project - Free Software Foundation](https://www.gnu.org/gnu/linux-and-gnu.it.html)
     * [Linux distro and commands for DevOps](https://medium.com/cloud-native-daily/mastering-linux-for-devops-engineers-essential-commands-and-practices-for-success-a608a718069f)
+  
+  * File System
     * [OS File System Structure](https://www.tutorialspoint.com/file-system-structure)
     * [Chapter 2. File System Structure and Maintenance Red Hat Enterprise Linux 6](https://access.redhat.com/documentation/it-it/red_hat_enterprise_linux/6/html/storage_administration_guide/ch-filesystem)
+
+  * Boot Process
     * [Guide to the Boot Process of a Linux System | Baeldung on Linux](https://www.baeldung.com/linux/boot-process)
     * [The Linux Booting Process - 6 Steps Described in Detail](https://www.freecodecamp.org/news/the-linux-booting-process-6-steps-described-in-detail/)
+  * Users and Permissions
+    * [How to Manage Users in Linux](https://www.freecodecamp.org/news/how-to-manage-users-in-linux/)
+    * [How to manage Linux permissions for users, groups, and others](https://www.redhat.com/sysadmin/manage-permissions)
+  
+  * Networking
     * [Linux Networking 101 - ActualTech Media](https://www.actualtechmedia.com/wp-content/uploads/2017/12/CUMULUS-NETWORKS-Linux101.pdf)
     * [Network Protocols and Networking](https://www.html.it/pag/71625/protocolli-di-rete-e-networking/)
     * [7 Linux networking commands that every sysadmin should know](https://www.redhat.com/sysadmin/7-great-network-commands)
-    * [How to Use SSH to Connect to Remote Computers Using Windows, Linux or macOS](https://www.tomshardware.com/how-to/use-ssh-connect-to-remote-computer)
+  * [How to Use SSH to Connect to Remote Computers Using Windows, Linux or macOS](https://www.tomshardware.com/how-to/use-ssh-connect-to-remote-computer)
     * [How to Transfer Files with Rsync over SSH {With Examples}](https://phoenixnap.com/kb/how-to-rsync-over-ssh)
     * [Ubuntu Linux Change Hostname (computer name) - nixCraft](https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)
     * [Web Server: What It Is and Why Understanding Its Structure Is Important](https://www.laramind.com/blog/web-server-cosa-sono-perche-sono-importanti/)
-    * [How to Edit File in Linux](https://linuxhint.com/how-to-edit-file-in-linux/)
-    * [Linux Shortcuts - javatpoint](https://www.javatpoint.com/linux-shortcuts)
+  * [How to Edit File in Linux](https://linuxhint.com/how-to-edit-file-in-linux/)
+  * [Linux Shortcuts - javatpoint](https://www.javatpoint.com/linux-shortcuts)
 
   * Books:
 
