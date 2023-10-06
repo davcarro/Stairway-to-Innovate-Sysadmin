@@ -1,3 +1,4 @@
+![immagine](immagine.png)
 # Stairway to Innovate - Sysadmin
 Welcome to our repository dedicated to System Administration resources. This space has been created specifically to provide our new team members with a set of valuable tools to develop their skills in the field of system administration.
 
