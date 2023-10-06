@@ -40,20 +40,26 @@ Happy learning and professional growth!
 ### Networking
   * Networking
      * [Linux Networking 101 - ActualTech Media](https://www.actualtechmedia.com/wp-content/uploads/2017/12/CUMULUS-NETWORKS-Linux101.pdf)
-     * [7 Linux networking commands that every sysadmin should know](https://www.redhat.com/sysadmin/7-great-network-commands) 
+     * [7 Linux networking commands that every sysadmin should know](https://www.redhat.com/sysadmin/7-great-network-commands)
+     
   * Network Protocols
      * [Network protocols - DNS, DHCP, ARP, FTP, SMTP, HTTP, SSL, TLS, HTTPS](https://supervisorbullying.com/network-protocols-their-functions/)
      * [Network Protocols and Networking - IP, TCP, UDP, ICMP](https://www.html.it/pag/71625/protocolli-di-rete-e-networking/)
+       
   * Network Security
      * [What is Network Security | Threats, Best Practices](https://www.imperva.com/learn/application-security/network-security/)
+       
   * Secure Shell Protocol (SSH) and Secure Copy Protocol (SCP)
      * [How to Use SSH to Connect to Remote Computers Using Windows, Linux or macOS](https://www.tomshardware.com/how-to/use-ssh-connect-to-remote-computer)
      * [Differences between SCP and SSH](https://www.pluralsight.com/resources/blog/cloud/ssh-and-scp-howto-tips-tricks)
-   * Remote Sync
+       
+  * Remote Sync
      * [How to Transfer Files with Rsync over SSH {With Examples}](https://phoenixnap.com/kb/how-to-rsync-over-ssh)
-   * Routing and Switching
+       
+  * Routing and Switching
      * [Routing vs. Forwarding vs. Switching](https://www.baeldung.com/cs/routing-vs-forwarding-vs-switching)
-   * More
+       
+  * More
      * [Ubuntu Linux Change Hostname (computer name) - nixCraft](https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)
      * [Web Server: What It Is and Why Understanding Its Structure Is Important](https://www.laramind.com/blog/web-server-cosa-sono-perche-sono-importanti/)
 
