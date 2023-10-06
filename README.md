@@ -30,14 +30,20 @@ Happy learning and professional growth!
     * [How to Manage Users in Linux](https://www.freecodecamp.org/news/how-to-manage-users-in-linux/)
     * [How to manage Linux permissions for users, groups, and others](https://www.redhat.com/sysadmin/manage-permissions)
   
-  * Networking
-    * [Linux Networking 101 - ActualTech Media](https://www.actualtechmedia.com/wp-content/uploads/2017/12/CUMULUS-NETWORKS-Linux101.pdf)
-    * [Network Protocols and Networking](https://www.html.it/pag/71625/protocolli-di-rete-e-networking/)
-    * [7 Linux networking commands that every sysadmin should know](https://www.redhat.com/sysadmin/7-great-network-commands)
+### Networking
+   * [Linux Networking 101 - ActualTech Media](https://www.actualtechmedia.com/wp-content/uploads/2017/12/CUMULUS-NETWORKS-Linux101.pdf)
+   * [Network Protocols and Networking](https://www.html.it/pag/71625/protocolli-di-rete-e-networking/)
+   * [7 Linux networking commands that every sysadmin should know](https://www.redhat.com/sysadmin/7-great-network-commands)
   * [How to Use SSH to Connect to Remote Computers Using Windows, Linux or macOS](https://www.tomshardware.com/how-to/use-ssh-connect-to-remote-computer)
     * [How to Transfer Files with Rsync over SSH {With Examples}](https://phoenixnap.com/kb/how-to-rsync-over-ssh)
     * [Ubuntu Linux Change Hostname (computer name) - nixCraft](https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)
     * [Web Server: What It Is and Why Understanding Its Structure Is Important](https://www.laramind.com/blog/web-server-cosa-sono-perche-sono-importanti/)
+
+### Cybersecurity
+
+### Automation and Scripting
+
+### Resource Management
   * [How to Edit File in Linux](https://linuxhint.com/how-to-edit-file-in-linux/)
   * [Linux Shortcuts - javatpoint](https://www.javatpoint.com/linux-shortcuts)
 
