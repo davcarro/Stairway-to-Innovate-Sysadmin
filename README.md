@@ -71,18 +71,18 @@ Happy learning and professional growth!
   * [How to Edit File in Linux](https://linuxhint.com/how-to-edit-file-in-linux/)
   * [Linux Shortcuts - javatpoint](https://www.javatpoint.com/linux-shortcuts)
 
-  * Books:
+### Books
 
-    * [Linux Book - ActualTech Media](https://www.actualtechmedia.com/wp-content/uploads/2017/12/CUMULUS-NETWORKS-Linux101.pdf)
-    * [Linux For Dummies 10th Edition](https://www.amazon.com/gp/product/1119704251/ref=as_li_tl?ie=UTF8&tag=wiley01-20)
+  * [Linux Book - ActualTech Media](https://www.actualtechmedia.com/wp-content/uploads/2017/12/CUMULUS-NETWORKS-Linux101.pdf)
+  * [Linux For Dummies 10th Edition](https://www.amazon.com/gp/product/1119704251/ref=as_li_tl?ie=UTF8&tag=wiley01-20)
 
-  * Tutorials:
+### Tutorials:
 
-    * [Linux Journey](https://linuxjourney.com/)
-    * [Killercoda](https://killercoda.com/pawelpiwosz/course/linuxFundamentals)
-    * [Virtual Box Tutorial For Beginners: Step By Step Guides](https://devopscube.com/virtual-box-tutorial/)
-   
-  * Courses:
+  * [Linux Journey](https://linuxjourney.com/)
+  * [Killercoda](https://killercoda.com/pawelpiwosz/course/linuxFundamentals)
+  * [Virtual Box Tutorial For Beginners: Step By Step Guides](https://devopscube.com/virtual-box-tutorial/)
 
-    * [Complete Linux Training Course on Udemy](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/learn/lecture/39823778#content)
+### Recommended Courses:
+
+  * [Complete Linux Training Course on Udemy](https://www.udemy.com/share/1013lo3@qFJnJzlcrxh1Ic6-d2nmgr6NzHsar1Zw3LdpRi-naYFk0-EyR6scGNVmZZaW6Uje/)
 
