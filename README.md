@@ -32,6 +32,7 @@ Happy learning and professional growth!
   
   * Installation and Configuration
      * [How to run an Ubuntu Desktop virtual machine using VirtualBox 7](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
+     * [Virtual Box Tutorial For Beginners: Step By Step Guides](https://devopscube.com/virtual-box-tutorial/)
      * [What are Steps to Secure a Linux Server?](https://blog.imunify360.com/what-are-steps-to-secure-a-linux-server)
   * Troubleshooting
      * [3 Common Linux Troubleshooting Techniques for Diagnostics](https://www.cbtnuggets.com/blog/technology/system-admin/3-common-linux-troubleshooting-techniques-for-diagnostics)
@@ -39,16 +40,19 @@ Happy learning and professional growth!
 ### Networking
   * Networking
      * [Linux Networking 101 - ActualTech Media](https://www.actualtechmedia.com/wp-content/uploads/2017/12/CUMULUS-NETWORKS-Linux101.pdf)
-     * [7 Linux networking commands that every sysadmin should know](https://www.redhat.com/sysadmin/7-great-network-commands)
+     * [7 Linux networking commands that every sysadmin should know](https://www.redhat.com/sysadmin/7-great-network-commands) 
   * Network Protocols
      * [Network protocols - DNS, DHCP, ARP, FTP, SMTP, HTTP, SSL, TLS, HTTPS](https://supervisorbullying.com/network-protocols-their-functions/)
      * [Network Protocols and Networking - IP, TCP, UDP, ICMP](https://www.html.it/pag/71625/protocolli-di-rete-e-networking/)
- 
-   * Secure Shell Protocol (SSH) and Secure Copy Protocol (SCP)
+  * Network Security
+     * [What is Network Security | Threats, Best Practices](https://www.imperva.com/learn/application-security/network-security/)
+  * Secure Shell Protocol (SSH) and Secure Copy Protocol (SCP)
      * [How to Use SSH to Connect to Remote Computers Using Windows, Linux or macOS](https://www.tomshardware.com/how-to/use-ssh-connect-to-remote-computer)
      * [Differences between SCP and SSH](https://www.pluralsight.com/resources/blog/cloud/ssh-and-scp-howto-tips-tricks)
    * Remote Sync
      * [How to Transfer Files with Rsync over SSH {With Examples}](https://phoenixnap.com/kb/how-to-rsync-over-ssh)
+   * Routing and Switching
+     * [Routing vs. Forwarding vs. Switching](https://www.baeldung.com/cs/routing-vs-forwarding-vs-switching)
    * More
      * [Ubuntu Linux Change Hostname (computer name) - nixCraft](https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)
      * [Web Server: What It Is and Why Understanding Its Structure Is Important](https://www.laramind.com/blog/web-server-cosa-sono-perche-sono-importanti/)
