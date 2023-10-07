@@ -65,7 +65,13 @@ Happy learning and professional growth!
 
 ### Cybersecurity
 
+  * Security Policy Management
+     * [The security policy of Linux](https://subscription.packtpub.com/book/cloud-and-networking/9781785286421/1/ch01lvl1sec10/the-security-policy-of-linux)
+  
   * Encryption
+     * [What is encryption?](https://www.cloudflare.com/it-it/learning/ssl/what-is-encryption/)
+     * [Linux File Encryption](https://linuxhint.com/linux_file_encryption/)
+  
   * Vulnerability Resolution
 
 ### Automation and Scripting
