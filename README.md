@@ -72,12 +72,14 @@ Happy learning and professional growth!
      * [What is encryption?](https://www.cloudflare.com/it-it/learning/ssl/what-is-encryption/)
      * [Linux File Encryption](https://linuxhint.com/linux_file_encryption/)
   
-  * Vulnerability Resolution
+  * Security Threats
+     * [Cybersecurity Threats | Types & Sources](https://www.imperva.com/learn/application-security/cyber-security-threats/)
 
 ### Automation and Scripting
 
-  * Process Automation
-  * Scripting
+  * Process Automation and Scripting
+     * [An Introduction to Linux Automation, Tools and Techniques](https://linuxconfig.org/an-introduction-to-linux-automation-tools-and-techniques)
+       
   * Configuration Management
 
 ### Resource Management
