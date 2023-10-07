@@ -74,6 +74,7 @@ Happy learning and professional growth!
   
   * Security Threats
      * [Cybersecurity Threats | Types & Sources](https://www.imperva.com/learn/application-security/cyber-security-threats/)
+     * [Vulnerability Management Process](https://www.rapid7.com/fundamentals/vulnerability-management-and-scanning/)
 
 ### Automation and Scripting
 
