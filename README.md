@@ -81,11 +81,12 @@ Happy learning and professional growth!
      * [An Introduction to Linux Automation, Tools and Techniques](https://linuxconfig.org/an-introduction-to-linux-automation-tools-and-techniques)
        
   * Configuration Management
+     * [An Introduction to Configuration Management](https://www.digitalocean.com/community/tutorials/an-introduction-to-configuration-management)
 
 ### Resource Management
 
   * Performance Monitoring
-  * Scalability
+     * [Top 7 Linux performance commands for system administrators](https://www.site24x7.com/learn/linux/top-commands-for-sysadmins.html)
   * Backup Management
 
 ### More
