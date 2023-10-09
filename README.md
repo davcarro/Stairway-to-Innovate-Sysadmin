@@ -80,6 +80,7 @@ Happy learning and professional growth!
 
   * Process Automation and Scripting
      * [An Introduction to Linux Automation, Tools and Techniques](https://linuxconfig.org/an-introduction-to-linux-automation-tools-and-techniques)
+     * [Python automation: 9 scripts to automate critical workflows](https://zapier.com/blog/python-automation/)
        
   * Configuration Management
      * [An Introduction to Configuration Management](https://www.digitalocean.com/community/tutorials/an-introduction-to-configuration-management)
