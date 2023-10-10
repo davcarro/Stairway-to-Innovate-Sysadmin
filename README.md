@@ -85,6 +85,7 @@ Happy learning and professional growth!
   * Configuration Management
      * [An Introduction to Configuration Management](https://www.digitalocean.com/community/tutorials/an-introduction-to-configuration-management)
      * [Getting started with Ansible](https://docs.ansible.com/ansible/latest/getting_started/index.html)
+     * [Ansible: Up and Running, 3rd Edition](https://www.oreilly.com/library/view/ansible-up-and/9781098109141/)
 
 ### Resource Management
 
